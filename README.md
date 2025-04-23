@@ -29,10 +29,10 @@ This project delivers an **end-to-end data solution** for football market data �
 5. **📊 Dashboard**  
    - Interactive dashboard built in **Power BI** showcasing:
      - Competitions Stats
-       
      - Player Stats
      - Club-level performance metrics
-
+     ![Dashboard](Insights/Players-Haland.jpg)
+     ![Dashboard](Insights/Competitions.jpg)
 ---
 
 ## 🖼️ Sample Dashboard Preview
