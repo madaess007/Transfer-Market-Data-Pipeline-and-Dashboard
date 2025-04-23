@@ -31,15 +31,15 @@ This project delivers an **end-to-end data solution** for football market data �
      - Competitions Stats
      - Player Stats
      - Club-level performance metrics
-     ![Dashboard](Insights/Players-Haland.jpg)
-     ![Dashboard](Insights/Competitions.jpg)
+
 ---
 
 ## 🖼️ Sample Dashboard Preview
 
 > 📌 *Visuals include transfer amounts, player positions, club analysis, timeline-based insights.*
 
-![Dashboard Sample](insights/dashboard_sample.png)
+     ![Dashboard](Insights/Players-Haland.jpg)
+     ![Dashboard](Insights/Competitions.jpg)
 
 ---
 
