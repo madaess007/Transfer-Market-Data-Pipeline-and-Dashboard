@@ -38,8 +38,8 @@ This project delivers an **end-to-end data solution** for football market data â
 
 > ðŸ“Œ *Visuals include transfer amounts, player positions, club analysis, timeline-based insights.*
 
-     ![Dashboard](Insights/Players-Haland.jpg)
-     ![Dashboard](Insights/Competitions.jpg)
+   ![Dashboard](Insights/Players-Haland.jpg)
+   ![Dashboard](Insights/Competitions.jpg)
 
 ---
 
